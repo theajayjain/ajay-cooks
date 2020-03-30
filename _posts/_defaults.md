@@ -2,6 +2,7 @@
 title:
 categories:
 date:
+author: Ajay Jain
 featured_image:
 recipe:
   servings:
