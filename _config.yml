@@ -10,13 +10,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+description: Ajay Cooks.
+author: Ajay Jain
+  name: Ajay Cooks
+  email: ajay@ajayjain.io
+  twitter: theajayjain
 social:
-  name: Treat Template
+  name: Ajay Jain
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
