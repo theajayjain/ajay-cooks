@@ -4,7 +4,7 @@ author: Ajay Jain
 categories:
   - Asian
   - Drinks
-featured_image: /images/gourmetBeyondBurger.JPG
+featured_image: /images/thaiCoffee.JPG
 recipe:
   servings: 2 People
   prep: 10 minutes
