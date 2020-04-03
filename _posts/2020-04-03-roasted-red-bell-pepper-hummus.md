@@ -3,7 +3,7 @@ title: Roasted Red Bell Pepper Hummus
 author: Ajay Jain
 categories:
   - Sauces and Dips
-featured_image: /images/redBellPepper.jpg
+featured_image:
 recipe:
   servings: 3 People
   prep: 5 minutes
