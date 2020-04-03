@@ -26,4 +26,4 @@ recipe:
 
 
 ---
-I am a huge fan of the Beyond Burger and the Impossible Burger. Their release has made vegetarian and vegan options more widespread at restaurants across the country. More importantly, I can cook amazing burgers that blow the frozen veggie burgers out of the park. They appease both vegetarians and omnivores. I like to make my burgers more "high-end". After all, the ingredients are not that much more expensive and you're making $14-16 dollars for a quarter of the price!
+I am a huge fan of both the Beyond Burger and the Impossible Burger. Their release has made vegetarian and vegan options more widespread at restaurants across the country. More importantly, I can cook amazing burgers that blow the frozen veggie burgers out of the park. They appease both vegetarians and omnivores. I like to make my burgers more "high-end". After all, the ingredients are not that much more expensive and you're making $14-16 dollars for a quarter of the price!
