@@ -9,7 +9,7 @@ recipe:
   servings: 4 People
   prep: 30 minutes
   ingredients_markdown: |-
-    * ** Dumplings **
+    * ## Dumplings
     * 1/2 bag of coleslaw mix or shredded lettuce
     * 4 oz shiitake mushrooms, diced
     * 3 cloves garlic, minced
@@ -17,7 +17,7 @@ recipe:
     * 1 tbsp soy sauce
     * Sriracha, to taste
     * 1 container [Wonton Wrappers](https://www.amazon.com/Nasoya-Natural-Wraps-Ounce-case/dp/B00KOB24DQ)
-    * ** Broth**
+    * ## Broth 
     * 5 cups vegetable broth
     * 1-2 tbsp soy sauce
     * 2 cloves garlic, minced
