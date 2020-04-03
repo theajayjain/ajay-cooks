@@ -4,7 +4,7 @@ author: Ajay Jain
 categories:
   - Asian
   - Drinks
-featured_image: /images/thaiCoffee.JPG
+featured_image: /images/thaiCoffee.jpg
 recipe:
   servings: 2 People
   prep: 10 minutes
