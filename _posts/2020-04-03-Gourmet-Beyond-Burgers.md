@@ -3,7 +3,7 @@ title: Gourmet Beyond Burgers
 author: Ajay Jain
 categories:
   - Burgers
-featured_image: /images/gourmetBeyondBurger.jpg
+featured_image: /images/gourmetBeyondBurger.JPG
 recipe:
   servings: 2 People
   prep: 10 minutes
