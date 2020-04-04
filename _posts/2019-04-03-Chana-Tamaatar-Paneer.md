@@ -3,7 +3,7 @@ title: Chana Tamaatar Paneer
 author: Ajay Jain
 categories:
   - Indian
-featured_image: /images/paneer.JPG
+featured_image: /images/channaTamaatarPaneer.jpg
 recipe:
   servings: 4 People
   prep: 30 minutes
