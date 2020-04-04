@@ -13,5 +13,5 @@ recipe:
     * Ajay
     * Youjung
   directions_markdown: |-
-    1. Be awesome friends for two years. Serve.
+    1. Be awesome friends for two years.
 ---
