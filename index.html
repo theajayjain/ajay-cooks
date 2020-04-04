@@ -4,16 +4,18 @@ title: Home
 <section class="posts">
 	{% for post in paginator.posts %}
 		<article class="post">
-			{% include post-heading.html post=post %}
-			{% if post.featured_image %}
-				<div class="image">
-					<img src="{{ post.featured_image }}" alt="{{ post.title }}">
-				</div>
-			{% endif %}
+			{% if post.title != "Five Course Meal" %}
+				{% include post-heading.html post=post %}
+				{% if post.featured_image %}
+					<div class="image">
+						<img src="{{ post.featured_image }}" alt="{{ post.title }}">
+					</div>
+				{% endif %}
 
 			{{ post.excerpt }}
 
 			<p><a class="button" href="{{ post.url }}">Read more</a></p>
+			{% endif %}
 		</article>
 	{% endfor %}
 
