@@ -25,11 +25,12 @@ recipe:
     * 1 tsp sugar
     * 1/8 tsp citric acid
   directions_markdown: |-
-    1. Preheat oven to 400 degrees. Drain chickpeas (make sure to save the chickpea water for aquafaba), rinse, and dry. Cover pan with oil, add chickpeas on top. Combine 1 tbsp each of tumeric, cumin, coriander, cayenne pepper, paprika, and garam masala into bowl. Add some of the spice mixture onto chickpeas, mix, and repeat three more times. Cook chickpeas for 10 to 15 minutes.
-    2. Saute onions. Season with salt, pepper, and remaining tumeric, cumin, coriander, cayenne pepper, paprika, and garam masala. Cook for two minutes then add garlic. Saute until onions are caramelized and yellow.
+    1. Preheat oven to 400 degrees. Drain chickpeas (make sure to save the chickpea water for aquafaba), rinse, and dry. Cover pan with oil, add chickpeas on top. Combine 1 tbsp each of turmeric, cumin, coriander, cayenne pepper, paprika, and garam masala into bowl. Add some of the spice mixture onto chickpeas, mix, and repeat three more times. Cook chickpeas for 10 to 15 minutes.
+    2. Saute onions. Season with salt, pepper, and remaining turmeric, cumin, coriander, cayenne pepper, paprika, and garam masala. Cook for two minutes then add garlic. Saute until onions are caramelized and yellow.
     3. Add tomatoes and stir. Let simmer for ten minutes.
     4. Remove chickpeas from oven and pulse until some (not all) of the texture is removed.
-    5. After simmering for ten minutes, add 1 tsp each of tumeric, cumin, coriander, cayenne pepper, paprika, and garam masala to the onion and tomato mixture. Then, add the chickpea blend to the pan, stir, and mash. Simmer for fifteen to twenty minutes. Stir and mash every other minute. While the curry is simmering, cut your paneer into cubes.
-    6. After simmering for 15-20 minutes, add butter, sriracha, and sugar. Stir and taste. If the curry tastes like a pasta sauce, add more tumeric, cumin, coriander, cayenne, paprika and garam masala.
+    5. After simmering for ten minutes, add 1 tsp each of turmeric, cumin, coriander, cayenne pepper, paprika, and garam masala to the onion and tomato mixture. Then, add the chickpea blend to the pan, stir, and mash. Simmer for fifteen to twenty minutes. Stir and mash every other minute. While the curry is simmering, cut your paneer into cubes.
+    6. After simmering for 15-20 minutes, add butter, sriracha, and sugar. Stir and taste. If the curry tastes like a pasta sauce, add more turmeric, cumin, coriander, cayenne, paprika and garam masala.
     7. Add paneer to pan. Add coconut cream butter, sriracha, sugar, citric acid. Set on low, mix, and let simmer for seven minutes. Serve.
 ---
+Although this is not a traditional paneer recipe or dish that you will find in an Indian restaurant, it takes a lot of the same spices and ingredients that are found in Indian cooking and made differently. This is a dish that I adapted from my former roommate and good friend Mike. He and I cooked this dish when we used to live in Washington DC and work on the Hill together. Its unique texture and creamy taste make it one of my favorite Indian recipes. 
