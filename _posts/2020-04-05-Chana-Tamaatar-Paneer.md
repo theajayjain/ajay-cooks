@@ -25,7 +25,7 @@ recipe:
     * 1 tsp sugar
     * 1/8 tsp citric acid
   directions_markdown: |-
-    1. Preheat oven to 400 degrees. Drain chickpeas, rinse, and dry. Cover pan with oil, add chickpeas on top. Combine 1 tbsp each of turmeric, cumin, coriander, cayenne pepper, paprika, and garam masala into bowl. Add some of the spice mixture onto chickpeas, mix, and repeat three more times. Cook chickpeas for 10 to 15 minutes.
+    1. Preheat oven to 400 degrees. Drain chickpeas, rinse, and dry. Cover pan with oil, add chickpeas on top. Combine 1 tbsp each of turmeric, cumin, coriander, cayenne pepper, paprika, and garam masala into bowl. Add some of the spice mixture onto chickpeas, mix, and repeat three more times. The chickpeas should look like [this](https://www.ajaycooks.com/images/chickpeas.JPG). Cook chickpeas for 10 to 15 minutes.
     2. Saute onions. Season with salt, pepper, and remaining turmeric, cumin, coriander, cayenne pepper, paprika, and garam masala. Cook for two minutes then add garlic. Saute until onions are caramelized and yellow.
     3. Add tomatoes and stir. Let simmer for ten minutes.
     4. Remove chickpeas from oven and pulse until some (not all) of the texture is removed.
