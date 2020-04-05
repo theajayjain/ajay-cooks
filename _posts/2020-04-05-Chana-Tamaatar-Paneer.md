@@ -1,5 +1,5 @@
 ---
-title: Chana Tamaatar Paneer
+title: Chana Tamatar Paneer
 author: Ajay Jain
 categories:
   - Indian
@@ -33,4 +33,4 @@ recipe:
     6. After simmering for 15-20 minutes, add butter, sriracha, and sugar. Stir and taste. If the curry tastes like a pasta sauce, add more turmeric, cumin, coriander, cayenne, paprika and garam masala.
     7. Add paneer to pan. Add coconut cream butter, sriracha, sugar, citric acid. Set on low, mix, and let simmer for seven minutes. Serve.
 ---
-Although this is not a traditional paneer recipe or dish that you will find in an Indian restaurant, it takes a lot of the same spices and ingredients that are found in Indian cooking and made differently. This is a dish that I adapted from my former roommate and good friend Mike. He and I cooked this dish when we used to live in Washington DC and work on the Hill together. Its unique texture and creamy taste make it one of my favorite Indian recipes. 
+Although this is not a traditional paneer recipe or dish that you will find in an Indian restaurant, it takes a lot of the same spices and ingredients that are found in Indian cooking and made differently. This is a dish that I adapted from my former roommate and good friend Mike. He and I cooked this dish when we used to live in Washington DC and work on the Hill together. Its unique texture and creamy taste make it one of my favorite Indian recipes.
