@@ -1,8 +1,7 @@
 ---
-title: Ten Minute Thai Iced Coffee
+title: Whipped Iced Coffee
 author: Ajay Jain
 categories:
-  - Asian
   - Drinks
 featured_image: /images/thaiCoffee.jpg
 recipe:
