@@ -2,9 +2,6 @@
 title: Five Course Meal
 author: Ajay Jain
 categories:
-  - Indian
-  - Italian
-  - Korean
 featured_image: /images/fiveCourseMeal.jpg
 recipe:
   servings: 2 People
