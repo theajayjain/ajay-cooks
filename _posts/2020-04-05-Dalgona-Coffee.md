@@ -8,7 +8,7 @@ categories:
 featured_image: /images/dalgonaCoffee.jpg
 recipe:
   servings: 2 People
-  prep: 10 minutes
+  prep: 5 minutes
   ingredients_markdown: |-
     * 2 small glasses of milk
     * 4 tbsp instant Coffee
