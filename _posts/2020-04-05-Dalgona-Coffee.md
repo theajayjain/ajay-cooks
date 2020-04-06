@@ -20,4 +20,4 @@ recipe:
     3. Take a picture of your photogenic drink. Mix with the milk before drinking.
 
 ---
-This is my recipe for the trendy and photogenic coffee that has been going viral during the COVID-19 pandemic: dalgona coffee. Dalgona coffee has it roots from Rajasthan, India, where my family is from. However, it first went viral because of South Korean trends. I decided to upload my recipe because my best friend Youjung (who is Korean) have been having a debate about if Indian-Korean fusion would taste good, and I wanted to display evidence that Indian and Korean culinary concepts go well together!
+This is my recipe for the trendy and photogenic coffee that has been going viral during the COVID-19 pandemic: dalgona coffee. Dalgona coffee has it roots from Rajasthan, India, where my family is from. However, it first went viral because of South Korean trends. I decided to upload my recipe because my best friend Youjung (who is Korean) and I have been having a debate about if Indian-Korean fusion would taste good, and I wanted to display evidence that Indian and Korean culinary concepts actually go well together!
