@@ -23,6 +23,7 @@ recipe:
     * 3 cloves garlic, diced
     * 2 tsp ginger, grated
     * 2 scallions, diced
+    * Lime juice, extra soy sauce, and extra sriracha to taste
 
   directions_markdown: |-
     1. Bring pot of water to boil. Prepare vegetables.
@@ -30,4 +31,4 @@ recipe:
     3. When noodles are done, drain and then place in the soup. Mix and cook for another five minutes, then serve with scallions on top.
 
 ---
-This noodle soup takes little to no time and can easily serve 4 people as a meal, or 6 people if you are serving with other food. All it takes is just two pots (one for the noodles and one for the soup) and 30 minutes of your time. It is an excellent quick meal to make when you are in a rush.
+This noodle soup takes little to no time and can easily serve 4 people as a meal, or 6 people if you are serving with other food. All it takes is just two pots (one for the noodles and one for the soup) and 30 minutes of your time. It is an excellent quick meal to make when you are in a rush or want a soothing meal quickly.
