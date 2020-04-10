@@ -5,6 +5,7 @@ categories:
   - Drinks
   - Indian
   - Korean
+  - Quick Recipes
 featured_image: /images/dalgonaCoffee.jpg
 recipe:
   servings: 2 People
