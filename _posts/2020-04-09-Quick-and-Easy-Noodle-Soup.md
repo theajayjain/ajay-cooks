@@ -6,7 +6,7 @@ categories:
   - Soups
 featured_image: /images/easyNoodleSoup.jpg
 recipe:
-  servings: 4-6 People
+  servings: 6-8 People
   prep: 30 minutes
   ingredients_markdown: |-
     * 8 oz extra-wide rice noodles (you can substitute in smaller width noodles if you prefer)
@@ -31,4 +31,4 @@ recipe:
     3. When noodles are done, drain and then place in the soup. Mix and cook for another five minutes, then serve with scallions on top.
 
 ---
-This noodle soup takes little to no time and can easily serve 4 people as a meal, or 6 people if you are serving with other food. All it takes is just two pots (one for the noodles and one for the soup) and 30 minutes of your time. It is an excellent quick meal to make when you are in a rush or want a soothing meal quickly. I like to add an extra tablespoon of sriracha, a teaspoon of soy sauce, and some lime juice to my serving, but you can customize yours however you want!
+This noodle soup takes little to no time and can easily serve 6 people as a meal or 8 people if you are serving with other food. All it takes is just two pots (one for the noodles and one for the soup) and 30 minutes of your time. It is an excellent quick meal to make when you are in a rush or want a soothing meal quickly. I like to add an extra tablespoon of sriracha, a teaspoon of soy sauce, and some lime juice to my serving, but you can customize yours however you want!
