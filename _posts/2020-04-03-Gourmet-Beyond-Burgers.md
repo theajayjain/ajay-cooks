@@ -1,5 +1,5 @@
 ---
-title: Gourmet Beyond Burgers
+title: Pretentious Beyond Burgers
 author: Ajay Jain
 categories:
   - Burgers
