@@ -5,7 +5,7 @@ categories:
   - Drinks
   - Indian
   - Korean
-  - 30 Minutes or Less Recipes
+  - 30minless
 featured_image: /images/dalgonaCoffee.jpg
 recipe:
   servings: 2 People

@@ -4,7 +4,7 @@ author: Ajay Jain
 categories:
   - Asian
   - Soups
-  - 30 Minutes or Less Recipes
+  - 30minless
 featured_image: /images/easyNoodleSoup.jpg
 recipe:
   servings: 6-8 People

@@ -3,7 +3,7 @@ title: Ajay's Favorite Beyond Burger Recipe
 author: Ajay Jain
 categories:
   - Burgers
-  - 30 Minutes or Less Recipes
+  - 30minless
 featured_image: /images/gourmetBeyondBurger.JPG
 recipe:
   servings: 2 People

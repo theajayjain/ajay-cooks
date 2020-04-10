@@ -3,7 +3,7 @@ title: Stovetop Cherry Crumble
 author: Ajay Jain
 categories:
   - Desserts
-  - 30 Minutes or Less Recipes
+  - 30minless
 featured_image: /images/cherryCrumble.jpg
 recipe:
   servings: 1 Person
