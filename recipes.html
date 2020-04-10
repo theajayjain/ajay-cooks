@@ -9,7 +9,11 @@ image_view: true
 	{% assign categories = site.categories | sort %}
 
 	{% for category in categories %}
-		<h2>{{ category[0] }}</h2>
+		{% if category[0] != "30 Minutes or Less Recipes" %}
+			<h2>{{ category[0] }}</h2>
+		{% else %}
+			<h2>Quick and Easy Recipes</h2>
+		{% endif %}
 		<div class="recipes">
 			{% assign recipes = category[1] | sort %}
 			{% for recipe in recipes %}
