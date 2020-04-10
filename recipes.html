@@ -34,7 +34,7 @@ image_view: true
 <!--End mc_embed_signup-->
 
 {% if page.image_view %}
-	{% categories = site.categories %}
+	{% $categories = site.categories %}
 	{% for category in categories %}
 		<h2>{{ category[0] }}</h2>
 		<div class="recipes">
