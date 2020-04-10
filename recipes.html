@@ -39,7 +39,8 @@ image_view: true
 	{% for category in categories %}
 		<h2>{{ category[0] }}</h2>
 		<div class="recipes">
-			{% for recipe in category[1] %}
+			{% assign recipes = category[1] | sort %}
+			{% for recipe in recipes %}
 				{% if recipe.title != "Five Course Meal" %}
 					{% if recipe.featured_image %}
 						<div class="recipe with-photo" style="background-image: url('{{ recipe.featured_image }}')">
