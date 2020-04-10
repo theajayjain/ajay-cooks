@@ -27,7 +27,7 @@ recipe:
 
   directions_markdown: |-
     1. Bring pot of water to boil. Prepare vegetables.
-    2. When water is boiling, add rice noodles and prepare per package instructions. Meanwhile, combine remaining ingredients (except for scallions) in a pot and set on medium high heat.
+    2. When water is boiling, add rice noodles and prepare per package instructions. Meanwhile, combine remaining ingredients (except for scallions) in a pot and set on medium high heat. Mix noodles and soup occasionally.
     3. When noodles are done, drain and then place in the soup. Mix and cook for another five minutes, then serve with scallions on top.
 
 ---
