@@ -1,5 +1,5 @@
 ---
-title: Pretentious Beyond Burgers
+title: Ajay's Favorite Beyond Burger Recipe
 author: Ajay Jain
 categories:
   - Burgers
