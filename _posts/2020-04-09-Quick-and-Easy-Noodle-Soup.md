@@ -4,6 +4,7 @@ author: Ajay Jain
 categories:
   - Asian
   - Soups
+  - Quick Recipes
 featured_image: /images/easyNoodleSoup.jpg
 recipe:
   servings: 6-8 People
