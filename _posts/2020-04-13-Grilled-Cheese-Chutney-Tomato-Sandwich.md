@@ -1,5 +1,5 @@
 ---
-title: Grilled Cheese Chutney and Tomato Sandwich
+title: Grilled Cheese, Chutney, and Tomato Sandwich
 author: Ajay Jain
 categories:
   - Burgers and Sandwiches
