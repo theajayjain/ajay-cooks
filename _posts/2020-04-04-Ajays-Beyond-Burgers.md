@@ -2,7 +2,7 @@
 title: Ajay's Favorite Beyond Burger Recipe
 author: Ajay Jain
 categories:
-  - Burgers
+  - Burgers and Sandwiches
   - 30minless
 featured_image: /images/gourmetBeyondBurger.JPG
 recipe:
