@@ -3,7 +3,7 @@ title: Vegan Dalgona Cheesecake
 author: Ajay Jain
 categories:
   - Desserts
-featured_image: /images/dalgonaCake.jpg
+featured_image: /images/dalgonaCake.JPG
 recipe:
   servings: 6 People
   prep: 5 hours
