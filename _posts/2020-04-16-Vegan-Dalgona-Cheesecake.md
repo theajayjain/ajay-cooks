@@ -14,7 +14,7 @@ recipe:
     * 5 tbsp maple syrup
     * 1 tsp vanilla extract
     * 1 Keebler Graham Pie Crust
-    * 4 tbsp instant coffee (use something with a less strong flavor, like Nescafe)
+    * 4 tbsp instant coffee (use a light roast! If using a dark roast, you will need to add more sugar)
     * 4 tbsp sugar
     * 4 tbsp hot water
     * 1 tbsp cornstarch
