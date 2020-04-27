@@ -3,6 +3,7 @@ title: Youjung's Kimchi Tofu
 author: Ajay Jain
 categories:
   - Korean
+  - Asian
   - 30minless
 featured_image: /images/youjungKimchiTofu.jpg
 recipe:

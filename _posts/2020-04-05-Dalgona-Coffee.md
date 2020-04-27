@@ -14,9 +14,9 @@ recipe:
     * 2 small glasses of milk
     * 4 tbsp instant Coffee
     * 4 tbsp brown sugar
-    * 4 tbsp hot water (can be made quickly by microwaving water for 30 seconds)
+    * 4 tbsp hot water (can be made quickly by microwaving water for 90 seconds)
   directions_markdown: |-
-    1. Add the instant coffee, brown sugar, and hot water into a bowl. Use an immersion blender or hand mixer to mix together for one to two minutes. At this point, the mixture should have a creamy texture that should look like a very creamy peanut butter.
+    1. Add the instant coffee, brown sugar, and hot water into a bowl. Use an immersion blender with a built in whisk or hand mixer to mix together for one to two minutes. At this point, the mixture should have a creamy texture that should look like a very creamy peanut butter.
     2. Pour the milk between two glasses and then pour the coffee mix on top of both glasses.
     3. Take a picture of your photogenic drink. Mix with the milk before drinking.
 
