@@ -19,4 +19,4 @@ recipe:
     2. Divide sliced tofu between two plates. Top each plate with an equivalent amount of kimchi and onions. Serve.
 
 ---
-I have been venturing more into cooking Korean cuisine lately because Youjung, my best friend, is Korean, and I wanted to experience part of her culture. One of her favorite recipes is this extremely simple Kimchi Tofu recipe. All you have to do is saute some onions and kimchi and serve on top of sliced tofu. It tastes very refreshing, fresh, and natural, and can be made in just ten minutes.
+I have been venturing into cooking Korean cuisine lately because Youjung, my best friend, is Korean, and I wanted to experience the culinary arts from her cultural background. One of her favorite recipes is this extremely simple Kimchi Tofu recipe. All you have to do is saute some onions and kimchi and serve on top of sliced tofu. It tastes very refreshing, fresh, and natural, and can be made in just ten minutes.
