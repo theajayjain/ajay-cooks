@@ -3,6 +3,7 @@ title: Chana Tamatar Paneer
 author: Ajay Jain
 categories:
   - Indian
+  - Asian
 featured_image: /images/channaTamaatarPaneer.jpg
 recipe:
   servings: 6 People
