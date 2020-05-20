@@ -2,6 +2,7 @@
 title: Dalgona Coffee
 author: Ajay Jain
 categories:
+  - Asian
   - Drinks
   - Indian
   - Korean

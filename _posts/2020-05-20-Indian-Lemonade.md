@@ -2,6 +2,7 @@
 title: Indian Lemonade
 author: Ajay Jain
 categories:
+  - Asian
   - Indian
   - Drinks
   - 30minless
