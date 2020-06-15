@@ -4,7 +4,7 @@ author: Ajay Jain
 categories:
   - Italian
   - 30minless
-featured_image: /images/mushroomMedleyPizza.JPG
+featured_image: /images/mushroomMedleyPizza.jpg
 recipe:
   servings: 3 People
   prep: 30 minutes
