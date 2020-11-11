@@ -1,9 +1,8 @@
 ---
-title: Korean Chili Kale Chips
+title: Chili Kale Chips
 author: Ajay Jain
 categories:
   - Asian
-  - Korean
 featured_image: /images/koreanKaleChips.JPG
 recipe:
   servings: 6 People
@@ -11,7 +10,7 @@ recipe:
   ingredients_markdown: |-
     * 1 bunch Kale
     * 1-2 tbsp olive oil or coconut oil
-    * 1.5-2 tsp gochugaru (Korean chili powder)
+    * 1.5-2 tsp chipotle chili powder or smoked paprika
     * 1 tsp sea salt
     * 0.5 tsp cumin
     * 0.5 tsp turmeric
