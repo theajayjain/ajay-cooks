@@ -20,7 +20,7 @@ recipe:
     * 3 tbsp Thai sweet chili sauce (similar to sauce for spring rolls)
     * Vegetarian oyster sauce (SEE RECIPE BELOW)
     * 3 tbsp soy sauce
-      * .75 oz Thai basil (substitute normal basil if necessary)
+    * .75 oz Thai basil (substitute normal basil if necessary)
     * 2 limes
     * Chili Garlic Sauce
 
